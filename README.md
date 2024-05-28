@@ -4,11 +4,11 @@
 
 # **osTicket: 4 Managing the Ticket Lifecycle**
 
-**Log in as an End User at**[**http://localhost/osTicket/**](http://localhost/osTicket/) **to create a few tickets.**
+## **Log in as an End User at**[**http://localhost/osTicket/**](http://localhost/osTicket/) **to create a few tickets.**
 
 ![osTicket 4 1](https://github.com/TDCybersecurity/ticket-lifecycle/assets/142702123/4e5e65a1-0376-4a44-a69d-a4dd68cdbb99)
 
-**Create a (3) Tickets using the information below \> Open a New Ticket \> Enter these details for each ticket.**
+## **Create a (3) Tickets using the information below \> Open a New Ticket \> Enter these details for each ticket.**
 
 | **Email Address**| **Full Name**| **Help Topic**| **Issue Summary**| **Issue Summary Detail**|
 | --- | --- | --- | --- | --- |
@@ -20,7 +20,7 @@
 
 Close the **SUPPORT CENTER Support Ticket System \>**
 
-**Log in the Admin Panel as Username: jane.doe and Password: Password1 \> You can not see the tickets.**
+## **Log in the Admin Panel as Username: jane.doe and Password: Password1 \> You can not see the tickets.**
 
 Log in to Admin Panel as Username: [td@gmail.com](mailto:td@gmail.com) and Password: Password1\> Observe the tickets.
 
@@ -32,21 +32,21 @@ Go Agents tab \> Name: Jane Doe open \> Access Extended Access choose Support an
 ![Ticket 4 4](https://github.com/TDCybersecurity/ticket-lifecycle/assets/142702123/8c3d4a9e-93bd-4745-858f-64fa49d33862)
 
 
-**Open Ticket 501100 \> Click the Subject \> Make the following changes \> Post Reply**
+## **Open Ticket 501100 \> Click the Subject \> Make the following changes \> Post Reply**
 
 | **Priority**| **Department**| **Assigned to**| **SLA Plan**|
 | --- | --- | --- | --- |
 | Emergency | System Administrator | Jane Doe | SEV A |
 
-**Observe Ticket updates**
+## **Observe Ticket updates**
 ![Ticket 4 5](https://github.com/TDCybersecurity/ticket-lifecycle/assets/142702123/b9ab8ade-03d5-4ec1-b4da-7d7139917738)
 
 
-**Observe Ticket History**
+## **Observe Ticket History**
 ![Ticket 4 6](https://github.com/TDCybersecurity/ticket-lifecycle/assets/142702123/13c321ac-1556-46ad-a1db-12017d93b67c)
 
 
-
+## ** This lab provides practical experience managing the Ticket Lifecycle.**
 
 
 
