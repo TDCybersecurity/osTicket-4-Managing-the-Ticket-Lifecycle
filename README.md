@@ -6,7 +6,7 @@
 
 **Log in as an End User at**[**http://localhost/osTicket/**](http://localhost/osTicket/) **to create a few tickets.**
 
-1 ![](RackMultipart20240528-1-sjc3k9_html_f82bd54b10d34a36.png)
+![osTicket 4 1](https://github.com/TDCybersecurity/ticket-lifecycle/assets/142702123/4e5e65a1-0376-4a44-a69d-a4dd68cdbb99)
 
 **Create a (3) Tickets using the information below \> Open a New Ticket \> Enter these details for each ticket.**
 
@@ -16,9 +16,7 @@
 | [ken@osticket.com](mailto:ken@osticket.com) | Ken Ben | Personal Computer Issue | Adobe Reader not working in the Accounting Dept | Occurred after last night's system upgrade |
 | [karen@osticket.com](mailto:karen@osticket.com) | Karen Baren | General Inquiry | When are we getting a hardware refresh | Most of my dept is having issues with their tablets, we need this ASAP |
 
-2
-
-![](RackMultipart20240528-1-sjc3k9_html_ed3ed017d968e8e5.png)
+![Ticket 4 2](https://github.com/TDCybersecurity/ticket-lifecycle/assets/142702123/64896a1a-1422-4781-9cba-638fe3cd2a73)
 
 Close the **SUPPORT CENTER Support Ticket System \>**
 
@@ -27,12 +25,12 @@ Close the **SUPPORT CENTER Support Ticket System \>**
 Log in to Admin Panel as Username: [td@gmail.com](mailto:td@gmail.com) and Password: Password1\> Observe the tickets.
 
 Go Agents tab \> Name: Jane Doe open \> Access Extended Access choose Support and Supreme Admin\> Save Changes
+![Ticket 4 3](https://github.com/TDCybersecurity/ticket-lifecycle/assets/142702123/5ccb6f2a-e378-4d58-a184-fe003fdbe094)
 
-3 ![](RackMultipart20240528-1-sjc3k9_html_932d23da8b76ddf0.png)
 
 **Go to Admin Panel \> Login as Username: jane.doe Password: Password1\> Now she has access to see the tickets.**
+![Ticket 4 4](https://github.com/TDCybersecurity/ticket-lifecycle/assets/142702123/8c3d4a9e-93bd-4745-858f-64fa49d33862)
 
-4 ![](RackMultipart20240528-1-sjc3k9_html_f1a8ba125312c4c5.png)
 
 **Open Ticket 501100 \> Click the Subject \> Make the following changes \> Post Reply**
 
@@ -40,13 +38,13 @@ Go Agents tab \> Name: Jane Doe open \> Access Extended Access choose Support an
 | --- | --- | --- | --- |
 | Emergency | System Administrator | Jane Doe | SEV A |
 
-**5 Observe Ticket updates**
+**Observe Ticket updates**
+![Ticket 4 5](https://github.com/TDCybersecurity/ticket-lifecycle/assets/142702123/b9ab8ade-03d5-4ec1-b4da-7d7139917738)
 
-![](RackMultipart20240528-1-sjc3k9_html_e3acfe98e639f999.png)
 
-**6 Observe Ticket History**
+**Observe Ticket History**
+![Ticket 4 6](https://github.com/TDCybersecurity/ticket-lifecycle/assets/142702123/13c321ac-1556-46ad-a1db-12017d93b67c)
 
-![](RackMultipart20240528-1-sjc3k9_html_fe29f9692139e9a3.png)
 
 
 
