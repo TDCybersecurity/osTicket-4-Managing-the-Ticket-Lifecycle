@@ -2,54 +2,51 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+# **osTicket: 4 Managing the Ticket Lifecycle**
 
+**Log in as an End User at**[**http://localhost/osTicket/**](http://localhost/osTicket/) **to create a few tickets.**
 
-<h2>Environments and Technologies Used</h2>
+1 ![](RackMultipart20240528-1-sjc3k9_html_f82bd54b10d34a36.png)
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+**Create a (3) Tickets using the information below \> Open a New Ticket \> Enter these details for each ticket.**
 
-<h2>Operating Systems Used </h2>
+| **Email Address**| **Full Name**| **Help Topic**| **Issue Summary**| **Issue Summary Detail**|
+| --- | --- | --- | --- | --- |
+| [karen@osticket.com](mailto:karen@osticket.com) | Karen Baren | Business Critical Outage | Entire mobile online banking system is down | Customers reporting getting a 404 error when browsing online banking |
+| [ken@osticket.com](mailto:ken@osticket.com) | Ken Ben | Personal Computer Issue | Adobe Reader not working in the Accounting Dept | Occurred after last night's system upgrade |
+| [karen@osticket.com](mailto:karen@osticket.com) | Karen Baren | General Inquiry | When are we getting a hardware refresh | Most of my dept is having issues with their tablets, we need this ASAP |
 
-- Windows 10</b> (21H2) 
+2
 
-<h2>Ticket Lifecycle Stages</h2>
+![](RackMultipart20240528-1-sjc3k9_html_ed3ed017d968e8e5.png)
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+Close the **SUPPORT CENTER Support Ticket System \>**
 
-<h2>Lifecycle Stages</h2>
+**Log in the Admin Panel as Username: jane.doe and Password: Password1 \> You can not see the tickets.**
 
-<p>
-<img src="https://i.imgur.com/UB3bu2r.png"/>
-</p>
-<p>
-Go to the end user page for your ticketing system and create at least two tickets. Use the email and name of the users you created.<br \>
-  <a href="http://localhost/osTicket/">End-User Page </a> 
-</p>
-<br />
+Log in to Admin Panel as Username: [td@gmail.com](mailto:td@gmail.com) and Password: Password1\> Observe the tickets.
 
-<p>
-<img src="https://i.imgur.com/RhqWadD.png"/>
-</p>
-<p>
-Next go to the Agent Panel and see the tickets you created appear in your feed.
-</p>
-<br />
+Go Agents tab \> Name: Jane Doe open \> Access Extended Access choose Support and Supreme Admin\> Save Changes
 
-<p>
-<img src="https://i.imgur.com/qy4CSnY.png"/>
-</p>
-<p>
-Resolve and make messages to simulate working the ticket. Do this multiple times. You can also set tickets to specific departments or agents. Do this and use different logins to observe how you can make tickets visbile or invisible to certain users in your ticketing system. This concludes the ticket lifecycle demonstration
-</p>
-<br /><img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+3 ![](RackMultipart20240528-1-sjc3k9_html_932d23da8b76ddf0.png)
+
+**Go to Admin Panel \> Login as Username: jane.doe Password: Password1\> Now she has access to see the tickets.**
+
+4 ![](RackMultipart20240528-1-sjc3k9_html_f1a8ba125312c4c5.png)
+
+**Open Ticket 501100 \> Click the Subject \> Make the following changes \> Post Reply**
+
+| **Priority**| **Department**| **Assigned to**| **SLA Plan**|
+| --- | --- | --- | --- |
+| Emergency | System Administrator | Jane Doe | SEV A |
+
+**5 Observe Ticket updates**
+
+![](RackMultipart20240528-1-sjc3k9_html_e3acfe98e639f999.png)
+
+**6 Observe Ticket History**
+
+![](RackMultipart20240528-1-sjc3k9_html_fe29f9692139e9a3.png)
 
 
 
