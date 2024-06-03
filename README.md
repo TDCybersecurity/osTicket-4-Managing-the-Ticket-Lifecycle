@@ -8,7 +8,7 @@
 
 ![osTicket 4 1](https://github.com/TDCybersecurity/ticket-lifecycle/assets/142702123/4e5e65a1-0376-4a44-a69d-a4dd68cdbb99)
 
-## **Create a (3) Tickets using the information below \> Open a New Ticket \> Enter these details for each ticket.**
+## **Create (3) Tickets using the information below \> Open a New Ticket \> Enter these details for each ticket.**
 
 | **Email Address**| **Full Name**| **Help Topic**| **Issue Summary**| **Issue Summary Detail**|
 | --- | --- | --- | --- | --- |
